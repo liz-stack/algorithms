@@ -2,6 +2,7 @@ package stage3;
 
 import java.util.Scanner;
 
+//A + B -3
 public class BOJ10950 {
 
 	public static void main(String[] args) {
