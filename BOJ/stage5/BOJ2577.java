@@ -24,7 +24,7 @@ public class BOJ2577 {
 		//2. bufferedReder
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
-		int arr[] = new int[9];
+		int arr[] = new int[10];
 		int val = Integer.parseInt(br.readLine()) * Integer.parseInt( br.readLine()) * Integer.parseInt(br.readLine());
 		
 		String str = String.valueOf(val); //val에 해당하는 값을 String으로 반환
