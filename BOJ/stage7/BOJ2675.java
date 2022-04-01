@@ -17,6 +17,7 @@ public class BOJ2675 {
 					System.out.print(S.charAt(j));
 				}
 			}
+			sc.close();
 			System.out.println();
 		}
 
