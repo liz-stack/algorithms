@@ -1,3 +1,5 @@
+# algorithms
+백준 알고리즘 단계별 문제풀이(javascript)
 
 ## 1. 하나의 값을 입력받을 때
 const input = require('fs').readFileSync('/dev/stdin').toString().trim();
