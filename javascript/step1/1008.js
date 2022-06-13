@@ -9,7 +9,7 @@
 첫째 줄에 A/B를 출력한다. 실제 정답과 출력값의 절대오차 또는 상대오차가 10-9 이하이면 정답이다.
 */
 
-const input = require('fs').readFileSync('./step2/input.txt').toString().trim().split(' ');
+const input = require('fs').readFileSync('./step1/input.txt').toString().trim().split(' ');
 
 const a = parseInt(input[0]);
 const b = parseInt(input[1]);
